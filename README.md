@@ -25,10 +25,14 @@ Metasploitable3 Windows Server 2008 R2 및 Ubuntu 14.04 환경을 대상으로
 - 숨김 데이터 복구
 - 보안 진단 보고서 작성
 
-## 주요 결과
-- MS17-010 취약점 분석
-- Meterpreter 세션 획득
+## 핵심 결과
+- MS17-010(EternalBlue) 취약점 검증
+- Apache Axis2 기본 계정 취약점 악용
+- Elasticsearch 원격 코드 실행 검증
+- Apache Continuum 취약점 분석
+- Meterpreter 및 Reverse Shell 획득
+- Windows SYSTEM 권한 획득
+- Ubuntu Root 권한 획득
 - MySQL Binary Log 분석
-- DOCX 구조 분석
-- Base64 인코딩 데이터 복구
-- QR 코드 및 이미지 복원
+- OOXML(DOCX) 구조 분석
+- Base64, Hex, QR, ZIP, ISO 데이터 복원 수행
