@@ -63,24 +63,24 @@ Metasploitable3 Windows Server 2008 R2 환경을 대상으로 서비스 식별, 
 
 ### Critical
 
-* [SMB (MS17-010)](./SMB_MS17-010.md)
-* [Elasticsearch](./Elasticsearch.md)
+* [SMB (MS17-010)](./01_SMB_MS17-010.md)
+* [Elasticsearch](./04_Elasticsearch.md)
 
 ### High
 
-* [Apache Axis2](./Apache_Axis2.md)
-* [GlassFish](./GlassFish.md)
-* [MySQL](./MySQL_Default_Password.md)
-* [OpenSSH](./OpenSSH_Default_Account.md)
+* [Apache Axis2](./02_Apache_Axis2.md)
+* [GlassFish](./03_GlassFish.md)
+* [MySQL](./06_MySQL_Default_Password.md)
+* [OpenSSH](./07_OpenSSH_Default_Account.md)
 
 ### Medium
 
-* [IIS (HTTP.sys)](./IIS_HTTPsys.md)
+* [IIS (HTTP.sys)](./05_IIS_HTTPsys.md)
 
 ### Low
 
-* [Ruby on Rails](./Ruby_on_Rails.md)
-* [Microsoft FTP](./Microsoft_FTP.md)
+* [Ruby on Rails](./08_Ruby_on_Rails.md)
+* [Microsoft FTP](./09_Microsoft_FTP.md)
 
 ---
 
