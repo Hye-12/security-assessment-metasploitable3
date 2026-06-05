@@ -40,7 +40,7 @@ Metasploitable3 Windows Server 2008 R2 및 Ubuntu 14.04 환경을 대상으로 �
 ---
 
 ## 진단 대상 및 범위
-![진단 대상 및 범위](../IMAGES/02_진단환경및.png)
+
 | 역할       | 운영체제                   | IP        |
 | -------- | ---------------------- | --------- |
 | Attacker | Kali Linux             | 10.0.0.31 |
